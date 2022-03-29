@@ -2,8 +2,8 @@ Algoritmo "exe5_sexo"
 // Disciplina   : [Linguagem e Lógica de Programação]
 // Professor   : Hiram Amaral 
 // Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : alunocetam22
-// Data atual  : 25/03/2022
+// Autor(a)    : Richardson Mota
+// Data atual  : 29/03/2022
 Var
 // Seção de Declarações das variáveis
    sexo: caractere

@@ -1,6 +1,7 @@
+
 Algoritmo "exe7_nomecompleto"
 // Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Hiram Amaral 
+// Professor   : Hiram Amaral
 // Descrição   : Aqui você descreve o que o programa faz! (função)
 // Autor(a)    : Richardson Mota
 // Data atual  : 29/03/2022
